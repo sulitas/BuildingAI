@@ -14,17 +14,10 @@ The AI will analyse tke daily tasks and will give indications on how to solve th
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
 The AI will help users to solve efficiently daily tasks.
 All the humans have to solve daily task.
 My personal motivation is linked to the fact that I have to solve numerous problems every day that involve a lot of research and creative work.
 This topic is interesting because will solve daily facing problems and tasks.
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
 
 * problem 1 - See the daily routine
 * problem 2 - See what task need information, research and creative work
