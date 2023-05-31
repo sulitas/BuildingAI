@@ -1,15 +1,16 @@
 # BuildingAI
 Building AI course project
+
 # Project Title
 
 Final project for the Building AI course - AI Silvisor
 
 ## Summary
 
-The AI project is about building AI for personal uses. 
-It means that the user will introduce same pieces of information into the database of the AI, in order to make a personality description available. 
-Also, it can be given info regarding the specific work of task the the user is supposed to do daily.
-The AI will analyse tke daily tasks and will give indications on how to solve them eficiently.
+The AI project is about building AI for personal uses. <br>
+It means that the user will introduce same pieces of information into the database of the AI, in order to make a personality description available. <br>
+Also, it can be given info regarding the specific work of task the the user is supposed to do daily.<br>
+The AI will analyse tke daily tasks and will give indications on how to solve them eficiently.<br>
 
 
 ## Background
