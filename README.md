@@ -34,10 +34,10 @@ AI identifies the situations (environment, time, info) that needs to be solved <
 AI will ofer different solutions to the task required (writting, reading, programming, market, research etc.) <br>
 The user will select what it needs. <br>
 
-AI Silvișor image
+AI Silvișor image  <br>
 ![Silviu Suliță](index.jpg)
 
-If you need to resize images, you have to use an HTML tag, like this:
+AI Silvișor image resized <br>
 <img src="index.jpg" width="300">
 
 This is how you create code examples:
