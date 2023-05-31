@@ -27,7 +27,7 @@ This topic is interesting because will solve daily facing problems and tasks.
 
 ## How is it used?
 
-See the daily routine - AI observing the schedule
+See the daily routine - AI observing the schedule <br>
 See what task need information, research and creative work - AI identifies the situations (environment, time, info) that needs to be solved
 AI will ofer different solutions to the task required (writting, reading, programming, market, research etc.)
 The user will select what it needs.
