@@ -59,26 +59,17 @@ The program will use different links:<br>
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
-The project doesn not take decisions in the name of the users. It just provide different solutions to be choosen of.
-Limitations - The abuse of useres to other users.
+The project does not take decisions in the name of the users. It just provide different solutions to be choosen of.<br>
+Limitations - The abuse of useres to other users.<br>
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on? 
-
-The project could grow if it used by a lot of persons that see the potential of it.
-The project could became the AI personal assistant.
-To move the project on I need more advanced language programming skills, a team of specialists and enthusiastics and, of course, money.
+The project could grow if it used by a lot of persons that see the potential of it.<br>
+The project could became the AI personal assistant.<br>
+To move the project on I need more advanced language programming skills, a team of specialists and enthusiastics and, of course, money.<br>
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
-
-Silviu Suliță's website> https://sulitas.tk/
+Sources of inspiration: <br>
+Silviu Suliță's website> https://sulitas.tk/ <br>
 Learn - Create - Collaborate
