@@ -52,7 +52,7 @@ The user will select what it needs.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Cat](https://ro.wikipedia.org/wiki/Inteligen%C8%9B%C4%83_artificial%C4%83#/media/Fi%C8%99ier:Anatomy-1751201_1280.png)
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
