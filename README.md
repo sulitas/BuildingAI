@@ -27,8 +27,6 @@ This topic is interesting because will solve daily facing problems and tasks.
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
 See the daily routine - AI observing the schedule
 See what task need information, research and creative work - AI identifies the situations (environment, time, info) that needs to be solved
 AI will ofer different solutions to the task required (writting, reading, programming, market, research etc.)
