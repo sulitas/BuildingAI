@@ -29,9 +29,10 @@ This topic is interesting because will solve daily facing problems and tasks.<br
 ## How is it used?
 
 See the daily routine - AI observing the schedule <br>
-See what task need information, research and creative work - AI identifies the situations (environment, time, info) that needs to be solved
-AI will ofer different solutions to the task required (writting, reading, programming, market, research etc.)
-The user will select what it needs.
+See what task need information, research and creative work <br>
+AI identifies the situations (environment, time, info) that needs to be solved <br>
+AI will ofer different solutions to the task required (writting, reading, programming, market, research etc.) <br>
+The user will select what it needs. <br>
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
