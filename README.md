@@ -49,21 +49,13 @@ def main ():
       print("%s %.2f%%" % (activities[i], 100.0)) 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-The data will come from web.
-The program will use different links:
-[Manatū Hauora Ministry of Health](https://www.health.govt.nz/)
-[Simplicable](https://simplicable.com/life/activities)
-[Elemnts of AI](https://buildingai.elementsofai.com/)
-[OECD](https://www.oecd-ilibrary.org/docserver/9789264239012-4-en.pdf?expires=1685538917&id=id&accname=guest&checksum=D14AC88E3478FAC3A7434EB5F5CBE314)
+The data will come from web.<br>
+The program will use different links:<br>
+[Manatū Hauora Ministry of Health](https://www.health.govt.nz/) <br>
+[Simplicable](https://simplicable.com/life/activities) <br>
+[Elemnts of AI](https://buildingai.elementsofai.com/) <br>
+[OECD](https://www.oecd-ilibrary.org/docserver/9789264239012-4-en.pdf?expires=1685538917&id=id&accname=guest&checksum=D14AC88E3478FAC3A7434EB5F5CBE314) <br>
 
 ## Challenges
 
