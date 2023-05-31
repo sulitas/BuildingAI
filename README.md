@@ -2,13 +2,9 @@
 Building AI course project
 # Project Title
 
-Final project for the Building AI course
-
-AI Silvisor
+Final project for the Building AI course - AI Silvisor
 
 ## Summary
-
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
 The AI project is about building AI for personal uses. 
 It means that the user will introduce same pieces of information into the database of the AI, in order to make a personality description available. 
