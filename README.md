@@ -59,7 +59,8 @@ The program will use different links:<br>
 
 ## Challenges
 
-The project does not take decisions in the name of the users. It just provide different solutions to be choosen of.<br>
+The project does not take decisions in the name of the users. <br>
+It just provide different solutions to be choosen of.<br>
 Limitations - The abuse of useres to other users.<br>
 
 ## What next?
