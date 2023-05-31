@@ -15,10 +15,10 @@ The AI will analyse tke daily tasks and will give indications on how to solve th
 
 ## Background
 
-The AI will help users to solve efficiently daily tasks.
-All the humans have to solve daily task.
-My personal motivation is linked to the fact that I have to solve numerous problems every day that involve a lot of research and creative work.
-This topic is interesting because will solve daily facing problems and tasks.
+The AI will help users to solve efficiently daily tasks.<br>
+All the humans have to solve daily task.<br>
+My personal motivation is linked to the fact that I have to solve numerous problems every day that involve a lot of research and creative work.<br>
+This topic is interesting because will solve daily facing problems and tasks.<br>
 
 * problem 1 - See the daily routine
 * problem 2 - See what task need information, research and creative work
