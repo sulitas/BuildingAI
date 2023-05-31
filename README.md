@@ -34,7 +34,7 @@ The user will select what it needs.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](index.jpg)
+![Silviu Suliță](index.jpg)
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="index.jpg" width="300">
