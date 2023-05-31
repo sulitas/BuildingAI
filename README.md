@@ -3,7 +3,7 @@ Building AI course project
 
 # Project Title
 
-Final project for the Building AI course - AI Silvisor
+Final project for the Building AI course - AI Silvișor
 
 ## Summary
 
@@ -34,8 +34,7 @@ AI identifies the situations (environment, time, info) that needs to be solved <
 AI will ofer different solutions to the task required (writting, reading, programming, market, research etc.) <br>
 The user will select what it needs. <br>
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+AI Silvișor image
 ![Silviu Suliță](index.jpg)
 
 If you need to resize images, you have to use an HTML tag, like this:
